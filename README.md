@@ -1,24 +1,88 @@
-### Hi i am Geshan✨
-#### Frontend Developer
-## About Me :
+<h1 align="center">Hi 👋, I'm Geshan</h1>
+<h3 align="center">Frontend Developer | Aspiring Software Engineer</h3>
 
-🌱 Learning Python  
-💻 Know HTML, CSS, Java, C / C++  
-🎯 Goal: Become a good software developer  
-⚡ Fun fact: I love coding and learning new things
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=I+am+Geshan;Frontend+Developer;Learning+Python;Building+Skills+Everyday;I+Love+Coding+%26+Learning" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **Python** and improving problem-solving skills  
+- 💻 Comfortable with **HTML, CSS, Java, C / C++**  
+- 🎯 Goal: **Become a skilled and professional software developer**  
+- ⚡ Fun fact: **I genuinely enjoy coding and learning new technologies**
+
+---
+
+## 🚀 What I’m Focused On
+- 🔹 Building clean & responsive frontend designs  
+- 🔹 Writing readable and structured code  
+- 🔹 Strengthening programming fundamentals  
+- 🔹 Preparing myself for real-world software development  
+
+---
+
+## 🧠 Skills Overview
+
+### 🎨 Frontend Skills
+- HTML5  
+- CSS3  
+- Responsive Design  
+- Basic UI/UX understanding  
+
+### 💻 Programming Languages
+- C  
+- C++  
+- Java  
+- Python (Learning)  
 
 
-- 🔭 I’m currently working on this page. 
-- 📫 How to reach me:  mdgeshanmolla31@gmail.com 
+---
 
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.facebook.com/md.geshan.964098" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/g_e_s_h_a_n/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/SowWo3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/geshan-molla-7717043a0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+  </a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Geshan-Molla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/geshan-molla-7717043a0//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.geshan.964098)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/g_e_s_h_a_n//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/SowWo3)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Geshan-Molla)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Geshan-Molla)  
+## 📊 GitHub Stats (Dark Theme)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geshan-Molla&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Geshan-Molla)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geshan-Molla&theme=tokyonight" />
+</p>
 
+---
+
+## 📌 Mindset
+> *“Consistency matters more than speed. I’m learning, building, and improving every day.”*
